@@ -68,6 +68,3 @@ class DogsController < ActionController
 
 ```
 
-## Resources
-* [Sinatra Up and Running](http://books.flatironschool.com/books/101) - [Chapter 2 Fundamentals](http://books.flatironschool.com/books/101), page 29
-* [Flatiron School Curriculum](https://github.com/learn-co-curriculum/) - [Blog on Sinatra](https://github.com/learn-co-curriculum/sinatra-blog)
