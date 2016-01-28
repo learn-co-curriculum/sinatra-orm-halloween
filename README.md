@@ -78,4 +78,4 @@ end
 
 
 
-<a href='https://learn.co/lessons/sinatra-orm-halloween' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-orm-halloween' title='Trick-Or-Treating App'>Trick-Or-Treating App</a> on Learn.co and start learning to code for free.</p>
